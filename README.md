@@ -12,4 +12,16 @@ pertama adalah lift sederhana dengan tiga lantai. Lift ini tahu di lantai mana b
 
 kedua soal tombol di luar lift dan mengintruksikan perintah yang ditekan ke dalam daftar. Ini memastikan bahwa perintah yang sama tidak dicatat berulang kali dan mengurutkannya sesuai dengan urutan permintaan. Untuk mengetahui lantai saat ini, lift menggunakan potensiometer yang terhubung dengan motor, dan statusnya ditampilkan di layar LCD.
 
+komponen arduino yang digunakan :
+
+* Arduino uno
+* Arduino nano
+* Reed switch(4x)
+* Button switches(10x)
+* Servomotor
+* Lcd display 16x2 I2C
+* Driver module ULN2003 for step mottor
+* Step motor 28-BYJ48
+* Buzzer
+
 
