@@ -2,7 +2,9 @@
 
 project refrence : 
 https://github.com/Ivan1931/Arduino-Elevator
+https://github.com/AlieksieievYurii/Elevator
 
+https://youtu.be/cfQdmKm0qJA?si=QnG30P6UMzsxn7cZ
 
 Program ini mengontrol arah elevator dengan mengubah polaritas dua arah dan menerima input dari sensor sentuh untuk menunjukkan bahwa elevator telah mencapai lantai tertentu. Selain itu, program juga berinteraksi dengan interface pengguna yang terdiri dari touchscreen interior dan eksterior, serta mengandalkan LED untuk menunjukkan lantai yang sedang dituju.
 
